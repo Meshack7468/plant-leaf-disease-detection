@@ -97,11 +97,11 @@ Pillow
 
 ## Stakeholders
 
-| Stakeholder | Benefit |
-| Farmers | Quick, low-cost field diagnosis via mobile app |
-| Agricultural researchers | Scalable crop health monitoring |
-| Agronomists | AI-powered diagnostic support tool |
-| App developers | Ready-to-deploy `.keras` model for integration |
+**Stakeholder Benefit** 
+- Farmers- Quick, low-cost field diagnosis via mobile app 
+- Agricultural researchers - Scalable crop health monitoring 
+- Agronomists - AI-powered diagnostic support tool 
+- App developers - Ready-to-deploy `.keras` model for integration 
 
 
 ## Future Work
