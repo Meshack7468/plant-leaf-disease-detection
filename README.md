@@ -73,9 +73,9 @@ Leverages MobileNetV2 pre-trained on ImageNet as a frozen feature extractor, wit
 
 | Metric | Custom CNN | MobileNetV2 |
 |---|---|---|
-| Training Accuracy | ~89.8% | ~94.4% |
-| Validation Accuracy | ~69.4% | ~95.4% |
-| Validation Loss | Higher | ~0.152 |
+| Training Accuracy | 89.8% | 94.4% |
+| Validation Accuracy | 69.4% | 95.4% |
+| Validation Loss | Higher | 0.152 |
 | Generalization |Overfitting signs | Strong |
 
 **MobileNetV2 was selected as the final model** due to:
