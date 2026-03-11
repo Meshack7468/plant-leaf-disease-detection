@@ -1,6 +1,6 @@
 # Plant Disease Detection using Deep Learning
 
-An end-to-end deep learning system for automatically detecting and classifying plant diseases from leaf images using a Custom CNN and MobileNetV2 transfer learning.
+A deep learning project system for automatically detecting and classifying plant diseases from leaf images using a Custom CNN and MobileNetV2 transfer learning.
 
 ## Project Overview
 
