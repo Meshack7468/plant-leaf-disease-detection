@@ -108,6 +108,6 @@ Pillow
 
 **Fine-tune MobileNetV2** — unfreeze top layers for domain-specific fine tuning to push accuracy further
 **Expand dataset** — include more plant species and rare disease classes
-**Deploy as a web app** — Deploy the model in Streamlit 
+**Deploy as a web app** — Deploy the model for real time usage
 **Multi-label classification** — detect multiple diseases present in a single leaf image
 
